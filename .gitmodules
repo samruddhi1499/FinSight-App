@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/samruddhi1499/FinSight-FE.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/samruddhi1499/FinSight-BE.git
